@@ -1,0 +1,7 @@
+C:\Ajeet\Docker\webapp\bin\Release\netcoreapp3.1\publish\webapp.exe
+C:\Ajeet\Docker\webapp\bin\Release\netcoreapp3.1\publish\appsettings.Development.json
+C:\Ajeet\Docker\webapp\bin\Release\netcoreapp3.1\publish\appsettings.json
+C:\Ajeet\Docker\webapp\bin\Release\netcoreapp3.1\publish\webapp.dll
+C:\Ajeet\Docker\webapp\bin\Release\netcoreapp3.1\publish\webapp.deps.json
+C:\Ajeet\Docker\webapp\bin\Release\netcoreapp3.1\publish\webapp.runtimeconfig.json
+C:\Ajeet\Docker\webapp\bin\Release\netcoreapp3.1\publish\webapp.pdb

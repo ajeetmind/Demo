@@ -1,0 +1,7 @@
+C:\Test-Demo\webapp\bin\Debug\netcoreapp3.1\publish\webapp.exe
+C:\Test-Demo\webapp\bin\Debug\netcoreapp3.1\publish\appsettings.Development.json
+C:\Test-Demo\webapp\bin\Debug\netcoreapp3.1\publish\appsettings.json
+C:\Test-Demo\webapp\bin\Debug\netcoreapp3.1\publish\webapp.dll
+C:\Test-Demo\webapp\bin\Debug\netcoreapp3.1\publish\webapp.deps.json
+C:\Test-Demo\webapp\bin\Debug\netcoreapp3.1\publish\webapp.runtimeconfig.json
+C:\Test-Demo\webapp\bin\Debug\netcoreapp3.1\publish\webapp.pdb
