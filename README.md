@@ -11,3 +11,7 @@
 
 
 #Host application on AZ k8s.
+
+
+
+# USe of AZ CLI and yaml to deploy into Azure cloud
